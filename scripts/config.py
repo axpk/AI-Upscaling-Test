@@ -1,0 +1,5 @@
+START_FRAME = 0
+MAX_FRAMES = 300  # None = all
+OUT_W, OUT_H = 1344, 768
+SEQ_NAME = "seq01"
+FPS = 30
